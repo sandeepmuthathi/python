@@ -3,3 +3,4 @@ for i in range(1,11):
 	while j <= i:
         	j=j+1
 	print "*" * i
+
